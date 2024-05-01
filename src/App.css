@@ -58,3 +58,39 @@
 a{
   color: gray;
 }
+
+.Section{
+  margin-left: 35px;
+  margin-right: 35px;
+}
+.date{
+  color: gray;
+  font-size: 40px;
+}
+
+
+.picture{
+  width: 100%;
+}
+.SectionHead{
+  font-size: 55px;
+}
+
+
+.text{
+  display: flex;
+  float: left;
+  font-size: 145px;
+}
+
+.mainText{
+  font-size: 35px;
+}
+
+.continue{
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  color: red;
+  font-size: 25px;
+}
