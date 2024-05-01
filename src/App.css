@@ -44,3 +44,17 @@
   color: red;
   font-size: 75px;
 }
+
+.Nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navBarContent{
+  font-size: 30px;
+  color: gray;
+}
+
+a{
+  color: gray;
+}
